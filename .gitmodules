@@ -1,0 +1,33 @@
+[submodule "odin-weather-app"]
+	path = odin-weather-app
+	url = git@github.com:blakelymayhall/odin-weather-app.git
+[submodule "odin-tictactoe"]
+	path = odin-tictactoe
+	url = git@github.com:blakelymayhall/odin-tictactoe.git
+[submodule "odin-todo"]
+	path = odin-todo
+	url = git@github.com:blakelymayhall/odin-todo.git
+[submodule "odin-restaurant"]
+	path = odin-restaurant
+	url = git@github.com:blakelymayhall/odin-restaurant.git
+[submodule "odin-library"]
+	path = odin-library
+	url = git@github.com:blakelymayhall/odin-library.git
+[submodule "odin-calculator"]
+	path = odin-calculator
+	url = git@github.com:blakelymayhall/odin-calculator.git
+[submodule "odin-signup-form"]
+	path = odin-signup-form
+	url = git@github.com:blakelymayhall/odin-signup-form.git
+[submodule "odin-etch-a-sketch"]
+	path = odin-etch-a-sketch
+	url = git@github.com:blakelymayhall/odin-etch-a-sketch.git
+[submodule "odin-rockpaperscissors"]
+	path = odin-rockpaperscissors
+	url = git@github.com:blakelymayhall/odin-rockpaperscissors.git
+[submodule "odin-landing-page"]
+	path = odin-landing-page
+	url = git@github.com:blakelymayhall/odin-landing-page.git
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = git@github.com:blakelymayhall/odin-recipes.git
