@@ -1,5 +1,6 @@
 _archive/
 .DS_Store
+.vs_code
 css-exercises/
 odin-recursion_quiz/
 playground/
