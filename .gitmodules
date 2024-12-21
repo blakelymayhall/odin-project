@@ -31,3 +31,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = git@github.com:blakelymayhall/odin-recipes.git
+[submodule "odin-testing_practice"]
+	path = odin-testing_practice
+	url = git@github.com:blakelymayhall/odin-testing_practice.git
