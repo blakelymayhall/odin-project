@@ -1,3 +1,0 @@
-name = "api-proxy"
-main = "src/index.js"
-compatibility_date = "2025-05-09"
