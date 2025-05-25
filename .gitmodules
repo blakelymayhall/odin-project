@@ -34,3 +34,12 @@
 [submodule "odin-testing_practice"]
 	path = odin-testing_practice
 	url = git@github.com:blakelymayhall/odin-testing_practice.git
+[submodule "odin-react-memory"]
+	path = odin-react-memory
+	url = ./odin-react-memory
+[submodule "odin-react-cv_app"]
+	path = odin-react-cv_app
+	url = ./odin-react-cv_app
+[submodule "odin-react-shopping-cart"]
+	path = odin-react-shopping-cart
+	url = ./odin-react-shoppoing-cart
