@@ -43,3 +43,6 @@
 [submodule "odin-react-shopping-cart"]
 	path = odin-react-shopping-cart
 	url = ./odin-react-shoppoing-cart
+[submodule "odin-node-basic-info-site"]
+	path = odin-node-basic-info-site
+	url = git@github.com:blakelymayhall/odin-node-basic-info-site.git
